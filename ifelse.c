@@ -6,6 +6,7 @@ int main() {
     int age;
     printf("Enter Age:");
     scanf("%d", &age);
+    // change done.
 
     if(age >= 21) {
         printf("1. Can legally marry in India. \n ");
